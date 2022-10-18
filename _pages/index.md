@@ -13,9 +13,9 @@ permalink: /
 
 <span style="font-weight: bold">[[Udec相关]]</span>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+更新时间：2022年10月18日
+更多内容正在装修...
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <style>
   .wrapper {
