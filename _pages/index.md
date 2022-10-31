@@ -13,6 +13,8 @@ permalink: /
 
 <span style="font-weight: bold">[[Udec相关]]</span>
 
+<p>之前在notion发布的一些文章在这里，供参考：</p>
+<span style="font-weight: bold">[[Notion]]</span>
 
 <p>更新时间：2022年10月31日：新增一些关于UDEC的内容</p>
 <p>下次更新时间大约在11月中旬，会考虑增加一些Markdown语法内容</p>
