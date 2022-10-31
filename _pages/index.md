@@ -14,9 +14,10 @@ permalink: /
 <span style="font-weight: bold">[[Udec相关]]</span>
 
 
-<p>更新时间：2022年10月18日</p>
+<p>更新时间：2022年10月31日：新增一些关于UDEC的内容</p>
+<p>预计下次更新时间大约在11月中旬，会考虑增加一些Markdown语法内容</p>
 
-<p>更多内容正在装修...</p>
+<p>更多内容正在装修...详见<span style="font-weight: bold">[[更新]]</span></p>
 
 
 <style>
@@ -24,3 +25,4 @@ permalink: /
     max-width: 46em;
   }
 </style>
+
